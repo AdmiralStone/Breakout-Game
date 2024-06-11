@@ -2,7 +2,7 @@
 
 Breakout styled game implemented in C++ using the Raylib library.
 
-##Screenshots
+## Screenshots
 ![Paused](screenshots/paused.png)
 
 ![Garown](screenshots/game_over.png)
