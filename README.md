@@ -1,6 +1,6 @@
 # Breakout
 
-This is a simple Breakout game implemented in C++ using the Raylib library.
+Breakout styled game implemented in C++ using the Raylib library.
 
 ##Screenshots
 ![Paused](screenshots/paused.png)
